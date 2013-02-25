@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello Priyansh, Lab1 PART A </string>
+    <string name="app_name">Lab1</string>
+    <color name="appColor">#0000ff</color> 
+    <string name="Celsius">toCelsius</string>
+    <string name="fahrenheit">to Fahrenheit</string>
+    <string name="changeText">Activity2: clickMeToChangeText</string>
+    <string name=" backgroundcolorY">Activity1: backgroundcolor</string>
+    <string name="chnageButtoncolor">Activity3: clickMetoChangeMyColor</string>
+    <color name="buttonColor">#008B00</color>
+
+
+</resources>
