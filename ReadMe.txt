@@ -1,0 +1,1 @@
+This is basically school stuff that I worked on. This is basically the first android lab and it is all about UI desing and make this stuff working.
