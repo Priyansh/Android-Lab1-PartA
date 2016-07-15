@@ -1,1 +1,1 @@
-This is basically school stuff that I worked on. This is basically the first android lab and it is all about UI desing and make this stuff working.
+This is basically Android native side development projects that I worked on. It's  basically first android lab assignments and it is all about UI design and it's related feautres.
